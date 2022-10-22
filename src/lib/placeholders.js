@@ -3,22 +3,22 @@ const PLACEHOLDERS = {
   HEROS: [
     // primaryHero
     {
-      heading: {value: 'All Mountain All Season'},
+      heading: {value: 'All Dogs Love Toys'},
       byline: {
-        value: 'The All New Hydrogen Snowboard Exclusively From Shopify',
+        value: 'Dogs gotta play',
       },
       cta: {value: 'Shop Now →'},
-      handle: 'freestyle',
+      handle: 'playtime',
       spread: {
         reference: {
           mediaContentType: 'IMAGE',
-          alt: 'Tracks in the snow leading to a person on a mountain top with a red jacket contrasting to an epic blue horizon with a mountain range in the distance.',
+          alt: 'Dog doing dog stuff with toy',
           previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_1.jpg?v=1654902468',
+            url: 'https://static.onecms.io/wp-content/uploads/sites/47/2020/09/12/willie-bones-dog-chewing-toy.jpg',
           },
           id: 'gid://shopify/MediaImage/29259478466616',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_1.jpg?v=1654902468',
+            url: 'https://static.onecms.io/wp-content/uploads/sites/47/2020/09/12/willie-bones-dog-chewing-toy.jpg',
             width: 2500,
             height: 3155,
           },
@@ -27,13 +27,13 @@ const PLACEHOLDERS = {
       spreadSecondary: {
         reference: {
           mediaContentType: 'IMAGE',
-          alt: 'A snowboarder standing on a mountain top in choppy snow, shows off the back of his snowboard which reads Hydrogen in a cursive script.',
+          alt: 'More dogs playing around',
           previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_2.jpg?v=1654902468',
+            url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDcOK0rud1qIYtc8IGKxdJrG7sAG_NB2XMuA&usqp=CAU',
           },
           id: 'gid://shopify/MediaImage/29259478499384',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_2.jpg?v=1654902468',
+            url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDcOK0rud1qIYtc8IGKxdJrG7sAG_NB2XMuA&usqp=CAU',
             width: 2500,
             height: 3155,
           },
@@ -45,20 +45,20 @@ const PLACEHOLDERS = {
     },
     // secondaryHero
     {
-      heading: {value: 'The Winter 2022 Collection'},
+      heading: {value: 'The Doggoo 2022 Collection'},
       byline: {value: 'Just Dropped'},
       cta: {value: 'Shop Now →'},
-      handle: 'winter-2022',
+      handle: 'Dog-2022',
       spread: {
         reference: {
           mediaContentType: 'IMAGE',
-          alt: 'Three young women in snowboarding attire embracing and laughing while snow falls around them',
+          alt: 'TDogs still playing around',
           previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Collection_Feature_Wide.jpg?v=1654902160',
+            url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0z7A9uma8uKE0LpVfmBNIYiPeMyqcnd8JA&usqp=CAU',
           },
           id: 'gid://shopify/MediaImage/29259478302776',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Collection_Feature_Wide.jpg?v=1654902160',
+            url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0z7A9uma8uKE0LpVfmBNIYiPeMyqcnd8JA&usqp=CAU',
             width: 5000,
             height: 2500,
           },
@@ -68,20 +68,20 @@ const PLACEHOLDERS = {
     },
     // tertiaryHero
     {
-      heading: {value: 'From the Slopes to the Chalet'},
+      heading: {value: 'From the store to doghouse'},
       byline: null,
       cta: {value: 'Shop Now →'},
-      handle: 'backcountry',
+      handle: 'dogcountry',
       spread: {
         reference: {
           mediaContentType: 'IMAGE',
-          alt: 'A skier hikes up a mountain through the snow with skis over their shoulder.',
+          alt: 'A dog plays around with toys',
           previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Chalet_Collection_Feature_1.jpg?v=1654902306',
+            url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDcOK0rud1qIYtc8IGKxdJrG7sAG_NB2XMuA&usqp=CAU',
           },
           id: 'gid://shopify/MediaImage/29259478368312',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Chalet_Collection_Feature_1.jpg?v=1654902306',
+            url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDcOK0rud1qIYtc8IGKxdJrG7sAG_NB2XMuA&usqp=CAU',
             width: 2500,
             height: 2500,
           },
@@ -90,13 +90,13 @@ const PLACEHOLDERS = {
       spreadSecondary: {
         reference: {
           mediaContentType: 'IMAGE',
-          alt: 'A snow covered lodge is illuminated by lights at night with a dark starry sky and mountain backdrop.',
+          alt: 'A dog needs toys to keep busy all day',
           previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Chalet_Collection_Feature_2.jpg?v=1654902306',
+            url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkS1DiBizihNn6vGcr7jUgAjVZGvWJBVC5QQ&usqp=CAU',
           },
           id: 'gid://shopify/MediaImage/29259478401080',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Chalet_Collection_Feature_2.jpg?v=1654902306',
+            url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkS1DiBizihNn6vGcr7jUgAjVZGvWJBVC5QQ&usqp=CAU',
             width: 2500,
             height: 2500,
           },
@@ -236,3 +236,4 @@ export function getProductInfoPlaceholder() {
 export function getProductPlaceholder() {
   return PLACEHOLDERS.PRODUCT;
 }
+
