@@ -14,37 +14,19 @@ const PLACEHOLDERS = {
           mediaContentType: 'IMAGE',
           alt: 'Dog doing dog stuff with toy',
           previewImage: {
-            url: 'https://static.onecms.io/wp-content/uploads/sites/47/2020/09/12/willie-bones-dog-chewing-toy.jpg',
+            url: 'https://i.ibb.co/12JXp7V/Pet-store-2.png',
           },
           id: 'gid://shopify/MediaImage/29259478466616',
           image: {
-            url: 'https://static.onecms.io/wp-content/uploads/sites/47/2020/09/12/willie-bones-dog-chewing-toy.jpg',
+            url: 'https://i.ibb.co/12JXp7V/Pet-store-2.png',
             width: 2500,
             height: 3155,
           },
         },
       },
-      spreadSecondary: {
-        reference: {
-          mediaContentType: 'IMAGE',
-          alt: 'More dogs playing around',
-          previewImage: {
-            url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDcOK0rud1qIYtc8IGKxdJrG7sAG_NB2XMuA&usqp=CAU',
-          },
-          id: 'gid://shopify/MediaImage/29259478499384',
-          image: {
-            url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDcOK0rud1qIYtc8IGKxdJrG7sAG_NB2XMuA&usqp=CAU',
-            width: 2500,
-            height: 3155,
-          },
-        },
-      },
-      height: 'full',
-      top: true,
-      loading: 'eager',
-    },
+     
     // secondaryHero
-    {
+    
       heading: {value: 'The Doggoo 2022 Collection'},
       byline: {value: 'Just Dropped'},
       cta: {value: 'Shop Now →'},
@@ -54,11 +36,11 @@ const PLACEHOLDERS = {
           mediaContentType: 'IMAGE',
           alt: 'TDogs still playing around',
           previewImage: {
-            url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0z7A9uma8uKE0LpVfmBNIYiPeMyqcnd8JA&usqp=CAU',
+            url: 'https://i.ibb.co/12JXp7V/Pet-store-2.png',
           },
           id: 'gid://shopify/MediaImage/29259478302776',
           image: {
-            url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0z7A9uma8uKE0LpVfmBNIYiPeMyqcnd8JA&usqp=CAU',
+            url: 'https://i.ibb.co/12JXp7V/Pet-store-2.png',
             width: 5000,
             height: 2500,
           },
