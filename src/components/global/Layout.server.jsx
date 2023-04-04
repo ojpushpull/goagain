@@ -29,8 +29,8 @@ export function Layout({children}) {
           {children}
         </main>
       </div>
-      <Suspense fallback={<Footer />}>
-        <FooterWithMenu />
+      <Suspense >
+  
       </Suspense>
     </>
   );

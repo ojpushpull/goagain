@@ -9,7 +9,7 @@ import {Heading, IconCaret} from '~/components';
  */
 export function FooterMenu({menu}) {
   const styles = {
-    section: 'grid gap-4',
+    section: 'grid gap-2',
     nav: 'grid gap-2 pb-6',
   };
 
